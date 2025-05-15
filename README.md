@@ -41,4 +41,4 @@ Este projeto tem como objetivo monitorar, em tempo real, o nível de água de re
 Clone o repositório e abra o arquivo `main.ino` no Arduino IDE.
 
 ```bash
-git clone https://github.com/seuusuario/iot-monitoramento-nivel-agua.git
+[git clone https://github.com/seuusuario/iot-monitoramento-nivel-agua.git] (https://github.com/scoreBR/IOT_Mackenzie.git)
