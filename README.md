@@ -24,6 +24,8 @@ Este projeto tem como objetivo monitorar, em tempo real, o nível de água de re
 4. Se o nível estiver abaixo de um limite crítico, o relé é acionado para ligar a bomba.
 5. Um aplicativo web (ou dashboard MQTT) pode ser utilizado para visualizar os dados em tempo real.
 
+![image](https://github.com/user-attachments/assets/40ce666c-5953-4098-ba23-8e09d3021141)
+
 ---
 
 ## 🌐 MQTT
